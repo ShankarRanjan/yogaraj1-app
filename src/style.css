@@ -1,0 +1,327 @@
+.topmenu {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    gap: 22px;
+
+
+}
+
+.topmenu h5:hover {
+    color: red;
+    cursor: pointer;
+
+}
+
+
+.migs {
+    width: 510px;
+    height: 610px;
+    margin-top: 41px;
+}
+
+.return {
+    padding: 111px !important;
+    font-size: 24px !important;
+    line-height: 1.2 !important;
+    font-family: Ubuntu, sans-serif !important;
+    top: -32px !important;
+}
+
+.text {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.top-img-and-text {
+    padding: 22px;
+}
+
+.image-from {
+    color: black;
+    font-size: 17px;
+    margin-left: -8px;
+}
+
+.freepik {
+    color: blue;
+}
+
+.button {
+    color: #ffffff !important;
+    background-color: #f67b6f !important;
+    height: 45px;
+    width: 131px;
+    border-radius: 24px;
+    border: none;
+    margin-left: -8px;
+    margin-top: 22px;
+}
+
+.button:hover {
+    cursor: pointer;
+    color: pink;
+    background-color: aquamarine !important;
+}
+
+.what {
+    text-align: center;
+    width: 100%;
+    color: white;
+    margin: 25px;
+    font-size: 40px;
+    font-family: Ubuntu, sans-serif;
+    font-weight: 700;
+}
+
+.you-learn {
+    background-color: #f67b6f;
+    height: 800px;
+    width: 100%;
+    display: flex;
+    gap: 22px;
+    margin-top: -68px;
+}
+
+
+
+.card {
+    width: 360px;
+    height: 280px;
+    background-color: white;
+    border-radius: 42px;
+    text-align: center;
+}
+
+.card-right {
+    float: right;
+}
+
+.card-down {
+    float: right;
+    margin-top: 19px;
+}
+
+.last-card {
+    margin-top: 17px;
+}
+
+
+
+.button2 {
+    color: #ffffff !important;
+    background-color: blue !important;
+    height: 45px;
+    width: 131px;
+    border-radius: 24px;
+    border: none;
+    margin-left: -67px;
+    margin-top: 22px;
+}
+
+.button2:hover {
+    background-color: #f67b6f !important;
+    cursor: pointer;
+}
+
+.icons {
+    width: 78px;
+    height: 78px;
+    background-color: cadetblue;
+    border-radius: 40px;
+    margin-left: 35%;
+    margin-top: 35px;
+}
+
+.i {
+    font-size: 54px;
+    padding: 11px;
+}
+
+.one-p-tag {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.one-line-text {
+    font-size: 21px;
+}
+
+.images-2page {
+    display: flex;
+    justify-content: center;
+}
+
+.image-from2 {
+    color: black;
+    font-size: 17px;
+}
+
+.page2-image {
+    display: flex;
+    justify-content: end;
+
+}
+
+.spmcolor {
+
+    color: #4c4ff9 !important;
+}
+
+.return1 {
+    padding: 101px !important;
+    /* height: 444px; */
+}
+
+.migs1 {
+    width: 486px;
+    height: 653px;
+    margin-top: 41px;
+}
+
+ .line-three{
+    background-color: #f67b6f;
+    height: 350px;
+    color: white;
+    margin-top: -8%;
+}
+.three-line-text{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+display: flex;
+justify-content: center;
+width: 100%;
+gap: 133px;
+align-items: center;
+/* .number-and-text{
+    text-align: center;
+    font-size: 61px;
+    display: contents;
+    font-weight: 900;
+    font-family: Ubuntu, sans-serif !important;
+}  */
+@media only screen and (max-width: 575px) {
+    .return {
+        padding: 0% !important;
+    }
+
+    .image-from {
+        text-align: center !important;
+    }
+
+    .button1 {
+        text-align: center !important;
+    }
+
+    .migs {
+        width: 355px;
+    }
+
+    .text {
+        padding-left: 36px;
+        padding-right: 36px;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .we {
+        padding-left: 36px;
+        padding-right: 36px;
+        font-size: 32px;
+        text-align: center;
+        line-height: 1.4;
+
+    }
+
+    .card {
+        margin-right: 3%;
+    }
+
+    .you-learn {
+        min-height: 1510px;
+        margin-top: -25px;
+        border-radius: 40px;
+    }
+
+    .card-two {
+        margin-left: 8%;
+    }
+
+    .btm-movie {
+        text-align: center;
+    }
+
+    .changes {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .line-three{
+        min-height: 500px;
+    text-align: center;
+    margin-top: -22px;
+    }
+    .three-line-text{
+        display: contents;
+        margin-top: 37px !important;
+    }
+    .total-down{
+        margin-top: 40px;
+    }
+}
+
+@media screen and (min-width: 575px) and (max-width: 820px) {
+    .images {
+        display: flex !important;
+        align-items: center !important;
+    }
+
+    .migs {
+        width: 397px;
+        height: 460px;
+       
+    }
+
+    .return {
+        padding: 84px !important;
+    }
+
+    .we {
+        font-size: 26px;
+    }
+
+    .you-learn {
+        min-height: 1400px;
+    }
+
+
+    .btm-movie {
+        text-align: center;
+    }
+
+    .card-two {
+        margin-left: 6%;
+    }
+
+    .card-movie2 {
+        width: 91%;
+        margin-right: 26px;
+    }
+
+    /* margin-bottom: -100px; */
+
+    .card-movie1 {
+        width: 95%;
+    }
+
+    .icons {
+        margin-left: 43%;
+    }
+
+    .return1 {
+        padding: 60px !important;
+    }
+}
