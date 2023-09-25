@@ -17,7 +17,7 @@ export const MainDesign = () => {
         </Col>
       </Row>
 
-      <Row gutter={16} className="top-img-and-text">
+      <Row className="top-img-and-text">
         <Col xl={12} lg={12} md={12} sm={24} xs={24} className="return">
           <h1 className="we">
             We Turn Your Ideas, Or Story Into A Bestselling Business Book
@@ -53,7 +53,7 @@ export const MainDesign = () => {
       <Row justify={"center"} className="you-learn">
         <h2 className="what">What Can You Learn</h2>
 
-        <Col xl={8} lg={12} md={24} sm={24} xs={24}>
+        <Col xl={8} lg={12} md={24} sm={24} xs={24} className="card-one">
           <Card className="card card-right card-movie2">
             <div className="icons">
               <MobileOutlined className="i" />
@@ -101,7 +101,7 @@ export const MainDesign = () => {
           </p>
         </Col>
       </Row>
-      <Row gutter={16} className="top-img-and-text changes">
+      <Row className="top-img-and-text changes">
         <Col
           xl={12}
           lg={12}

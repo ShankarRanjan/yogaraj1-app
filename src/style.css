@@ -142,6 +142,7 @@
 .one-p-tag {
     font-size: 15px;
     font-weight: 400;
+    color: #b3b3b3 !important;
 }
 
 .one-line-text {
@@ -177,33 +178,338 @@
 .migs1 {
     width: 486px;
     height: 653px;
-    margin-top: 41px;
+    margin-top: 34px;
 }
 
- .line-three{
+.line-three {
     background-color: #f67b6f;
-    height: 350px;
+    height: 280px;
     color: white;
     margin-top: -8%;
 }
-.three-line-text{
+
+.three-line-text {
     width: 100%;
     display: flex;
     align-items: center;
     text-align: center;
 }
-display: flex;
-justify-content: center;
-width: 100%;
-gap: 133px;
-align-items: center;
-/* .number-and-text{
+
+.say {
+    display: flex;
+    justify-content: center;
+}
+
+.what {
+    font-size: 48px;
+    font-family: Ubuntu, sans-serif;
+    font-weight: 700;
+    color: black;
+}
+
+.image-from-two {
+    color: black;
+    font-size: 17px;
+    width: 100%;
     text-align: center;
+}
+
+.total-down {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.migs-page {
+    width: 486px;
+    height: 653px;
+    margin-bottom: -28px;
+}
+
+.two-icons {
+    width: 47px;
+}
+
+.two-icons-cards {
+    background-color: #fff1ef;
+}
+
+.total-2card-icons {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.number-and-text {
     font-size: 61px;
-    display: contents;
-    font-weight: 900;
-    font-family: Ubuntu, sans-serif !important;
-}  */
+}
+
+.four-icons {
+    background-color: #f67b6f;
+    height: 400px;
+    color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.center-card {
+    text-align: center;
+}
+
+
+
+.icon-dsin {
+    width: 79px;
+    height: 78px;
+    background-color: white;
+    border-radius: 50px;
+    color: black;
+    font-size: 58px;
+    padding: 9px;
+    justify-content: center;
+}
+
+.here {
+    width: 100%;
+    text-align: center;
+    font-size: 42px;
+    font-weight: revert;
+}
+
+.total-img8 {
+    opacity: 0.4;
+    height: 95px;
+    width: 313px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.total7 {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.card3-dsin {
+    width: 360px;
+    background-color: white;
+    border-radius: 42px;
+}
+
+.card3 {
+    background-color: antiquewhite;
+    gap: 33px;
+    margin-top: 22px;
+    height: 513px;
+}
+
+.card-al {
+    display: flex;
+    align-items: center;
+}
+
+.button5 {
+    color: #ffffff !important;
+    background-color: #f67b6f !important;
+    height: 51px;
+    width: 144px;
+    border-radius: 36px;
+    border: none;
+    margin-left: -8px;
+    margin-top: 22px;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.button5:hover {
+    cursor: pointer;
+    color: pink;
+    background-color: rgb(19, 123, 89) !important;
+}
+
+.right-end {
+    text-align: end;
+}
+
+.right-end-icon {
+    font-size: 34px;
+    color: wheat;
+    background-color: darkolivegreen;
+    height: 62px;
+    width: 62px;
+    border-radius: 50px;
+    justify-content: center;
+    margin-top: -22px;
+}
+
+.number {
+    font-family: Raleway, sans-serif !important;
+    font-size: 26px;
+    letter-spacing: 2px;
+}
+
+.desk {
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+.services{
+    background-color: #f67b6f;
+    margin-top: -22px;
+    height: 651px;
+  
+}
+.element{
+    text-align: center;
+    color: white;
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: -22px;
+}
+.financial{
+    color: white;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Ubuntu,sans-serif;
+    text-align: center;
+    line-height: 1.1;
+    font-style: oblique;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.button8 {
+    color: #ffffff !important;
+    background-color: #4c4ff9 !important;
+    height: 60px;
+    width: 265px;
+    border-radius: 50px;
+    border: none;
+    font-size: 17px;
+}
+
+.button8:hover {
+    cursor: pointer;
+  
+}
+.button9 {
+    color: black !important;
+    background-color: white !important;
+    height: 60px;
+    width: 265px;
+    border-radius: 50px;
+    border: none;
+    font-size: 17px;
+}
+
+.button9:hover {
+    cursor: pointer;
+    color: pink;
+    background-color: wheat !important;
+}
+.button10 {
+    color: white !important;
+    background-color: #4c4ff9 !important;
+    height: 50px;
+    width: 149px;
+    border-radius: 50px;
+    border: none;
+    font-size: 15px;
+
+}
+
+.button10:hover {
+    cursor: pointer;
+    color: pink;
+    background-color: rgb(56, 56, 221) !important;
+}
+.button3-card{
+    width: 100%;
+    justify-content: center;
+    gap: 19px;
+}
+.select-the{
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+}
+.the{
+    color: white;
+    font-size: 18px;
+}
+.the-line{
+    padding-right: 590px;
+}
+.let{
+    color: #ffffff;
+    background-color: #4c4ff9;  
+    height: 226px;
+}
+.great{
+    width: 100%;
+    text-align: center;
+    font-size: 47px;
+    font-family: Ubuntu,sans-serif;
+    font-weight: 700;
+
+}
+.button11 {
+    color: white !important;
+    background-color: rgb(216, 103, 103) !important;
+    height: 50px;
+    width: 149px;
+    border-radius: 50px;
+    border: none;
+    font-size: 15px;
+    margin-left: 22px;
+
+}
+
+.button11:hover {
+    cursor: pointer;
+    color: pink;
+    background-color: red !important;
+}
+.in{
+    width: 431px;
+    height: 49px;
+    border-radius: 50px;
+}
+.usage{
+    width: 100%;
+    text-align: center;
+    margin-top: -55px;
+}
+.click{
+    font-size: 17px;
+    background-color: black;
+    color: white;
+    height: 110px;
+    justify-content: center;
+    align-items: center;
+}
+.click1{
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    height: 110px;
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    text-decoration: underline;
+    color: #b6b8fd;
+}
+.created-with{
+    margin-left: 6px;
+    margin-right: 6px;
+    color: antiquewhite;
+
+}
 @media only screen and (max-width: 575px) {
     .return {
         padding: 0% !important;
@@ -219,6 +525,7 @@ align-items: center;
 
     .migs {
         width: 355px;
+        height: 370px;
     }
 
     .text {
@@ -247,8 +554,10 @@ align-items: center;
         border-radius: 40px;
     }
 
+
+
     .card-two {
-        margin-left: 8%;
+        margin-left: 11%;
     }
 
     .btm-movie {
@@ -259,17 +568,90 @@ align-items: center;
         display: flex;
         flex-direction: column-reverse;
     }
-    .line-three{
-        min-height: 500px;
-    text-align: center;
-    margin-top: -22px;
+
+    .line-three {
+        min-height: 700px;
+        text-align: center;
+        margin-top: -22px;
     }
-    .three-line-text{
+
+    .three-line-text {
         display: contents;
         margin-top: 37px !important;
     }
-    .total-down{
-        margin-top: 40px;
+
+   
+
+    .total-2card-icons {
+        display: flow;
+    }
+
+    .two-card-icones-images {
+        display: flex;
+        justify-content: end;
+    }
+
+    .four-icons {
+        min-height: 780px;
+    }
+
+    .cnt {
+        margin-top: -18%;
+    }
+
+    .total7 {
+        padding-left: 0% !important;
+        padding-right: 0% !important;
+    }
+
+    .here {
+        font-size: 35px;
+        margin-top: 47px;
+        font-style: italic;
+
+    }
+
+    .total-img8 {
+        margin-top: 39px;
+    }
+
+    .card3 {
+        height: 1500px;
+        gap: inherit;
+    }
+
+    .card-al {
+        margin-top: 25px;
+        justify-content: center;
+    }
+    .financial{
+        margin-left: 0%;
+        margin-right: 0%;
+        font-size: 32px;
+    }
+    .the-line{
+        padding-right: 0%;
+    }
+    .services{
+        margin-top: -22px;
+        min-height: 717px;
+    }
+    .great {
+        font-size: 30px;
+    }
+    .in{
+        width: 308px;
+    }
+    .usage{
+        margin-top: 0%;
+    }
+    .button11{
+        width: 310px;
+    margin-left: 7px;
+    margin-top: 17px;
+    }
+    .let{
+        height: 309px;
     }
 }
 
@@ -282,7 +664,7 @@ align-items: center;
     .migs {
         width: 397px;
         height: 460px;
-       
+
     }
 
     .return {
@@ -311,7 +693,6 @@ align-items: center;
         margin-right: 26px;
     }
 
-    /* margin-bottom: -100px; */
 
     .card-movie1 {
         width: 95%;
@@ -323,5 +704,97 @@ align-items: center;
 
     .return1 {
         padding: 60px !important;
+    }
+
+    .total-down {
+        text-align: center;
+        margin-top: 34px;
+
+    }
+
+   
+
+    .number-and-text {
+        font-size: 64px;
+    }
+
+    .line-three {
+        height: 0%;
+    }
+
+    .two-card-icones-images {
+        display: flex;
+        align-items: end;
+    }
+
+    .migs-page {
+        width: 288px;
+        height: 366px;
+    }
+
+    .two-icons-cards {
+        width: 280px;
+        height: 310px;
+    }
+
+    .image-from-two {
+        font-size: 30px;
+    }
+
+    .total-2card-icons {
+        margin-top: 6%;
+        align-items: end;
+    }
+
+    .four-icons {
+        min-height: 880px;
+    }
+
+    .cnt {
+        margin-top: -22%;
+    }
+
+    .here {
+        font-size: 50px;
+        font-style: italic;
+        font-weight: 700;
+    }
+
+    .total7 {
+        padding-left: 50px;
+        padding-right: 50px;
+        min-height: 518px;
+    }
+
+    .card3 {
+        gap: inherit;
+        height: auto;
+        padding: 23px;
+    }
+    .card2{
+        justify-content: end;
+    }
+    .card4{
+        margin-top: 3%;
+    }
+    .financial{
+        margin-left: 0%;
+        margin-right: 0%;
+        font-size: 33px;
+    }
+    .element{
+        font-size: 32px;
+    }
+    .button9{
+        width: 241px;
+    }
+    .button8{
+        width: 241px;
+    }
+    .the-line{
+        padding-right: 346px;
+    }
+    .services{
+        margin-top: -22px;
     }
 }
