@@ -499,6 +499,7 @@
     height: 110px;
     justify-content: center;
     align-items: center;
+    margin-top: -1px;
 }
 .link{
     text-decoration: underline;
@@ -617,6 +618,7 @@
 
     .card3 {
         height: 1500px;
+
         gap: inherit;
     }
 
@@ -796,5 +798,12 @@
     }
     .services{
         margin-top: -22px;
+    }
+    .ss{
+        margin-bottom: -45%;
+
+    }
+    .sss{
+        margin-bottom: -5%;
     }
 }

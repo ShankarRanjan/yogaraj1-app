@@ -9,7 +9,7 @@ export const MainDesign = () => {
     <>
       <Row>
         <Col className="topmenu">
-          <h5>Home</h5>
+          <h5>hi guys </h5>
           <h5>Landing</h5>
           <h5>About</h5>
           <h5>Team</h5>
@@ -110,7 +110,7 @@ export const MainDesign = () => {
           xs={24}
           className="images page2-image"
         >
-          <img className="migs migs1" src="assets/handsome.jpg" alt="img" />
+          <img className="migs migs1 ss" src="assets/handsome.jpg" alt="img" />
         </Col>
 
         <Col xl={12} lg={12} md={12} sm={24} xs={24} className="return return1">

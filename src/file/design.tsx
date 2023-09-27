@@ -152,7 +152,7 @@ export const Design = () => {
           xs={24}
           className="images page2-image"
         >
-          <img className="migs migs1" src="assets/handso.jpg" alt="img" />
+          <img className="migs migs1 sss" src="assets/handso.jpg" alt="img" />
         </Col>
 
         <Col xl={12} lg={12} md={12} sm={24} xs={24} className="return return1">
